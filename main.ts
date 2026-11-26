@@ -1,4 +1,4 @@
-// Tabs v2 — writes entry.txt byte-for-byte to $MAKEFUN_OUTPUT_DIR/entry.txt.
+// Tabs v3 — writes entry.txt byte-for-byte to $MAKEFUN_OUTPUT_DIR/entry.txt.
 // The entry lives in entry.txt next to this script; this program only
 // validates the gate shape and copies it. No network, no dependencies,
 // deterministic: same input always produces the same output bytes.
